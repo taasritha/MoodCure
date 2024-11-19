@@ -1,12 +1,5 @@
-# Ignore Python bytecode files and __pycache__ directories
 __pycache__/
 *.pyc
-
-# Ignore the .env file
 .env
-
-# Ignore the json_files folder
 json_files/
-
-# Ignore the config folder
 config/
